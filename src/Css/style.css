@@ -1,0 +1,63 @@
+.headingTitle {
+  color: #16558f;
+  background-color: #b8e3ff;
+  font-size: 50px;
+}
+
+.tHeading {
+  margin: 50px;
+  padding: 30px;
+  padding-top: 50px;
+  font-size: 30px;
+}
+
+.table {
+  padding: 50px;
+  margin: 20px;
+}
+
+.journalTable {
+  margin-left: 40rem;
+  padding: 50px;
+  width: 60rem;
+ 
+}
+
+.tableHeading {
+  background-color: #0583d2;
+
+}
+
+.date {
+  display: inline;
+}
+
+.dateInput {
+  background-color: #b8e3ff;
+  margin-left: 20px;
+}
+
+.firstDiv {
+  padding: 30px;
+}
+
+.thirdDiv {
+  margin-left: 120px;
+  padding: 20px;
+}
+
+textarea {
+  width: 32.5rem;
+  height: 50px;
+  background-color: #b8e3ff;
+  white-space: pre-line;
+  white-space: pre-wrap;
+}
+
+.submitButton {
+  margin-left: 8.5rem;
+  width: 32.5rem;
+  background-color: #61b0b7;
+  
+}
+

@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body {
+
+    margin: 0;
+    text-align: center;
+   
+}
+
+html,
+body {
+
+    height: 100%;
+    
+}
